@@ -1,4 +1,4 @@
-# guessStates
+# guessStates Project
 A fun project with the purpose to help High School students to approach Physics
 
 guessStates.py is the game itself, you should just download a Python3 releases and after that, let's try it!
